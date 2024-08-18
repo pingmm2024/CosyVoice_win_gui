@@ -1,0 +1,2 @@
+# CosyVoice_win_gui
+CosyVoice封装后在GUI上直接使用
